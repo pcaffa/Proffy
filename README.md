@@ -1,10 +1,11 @@
 # Proffy
  Projeto criado durante a Next Level Week 2 da Rocketseat
  
-<h2>A plataforma Msc Proffy oferece:</h2>
- >Ao usuário o cadastro de aulas de instrumentos que ele sabe e quer ensinar;
- >A encontrar aulas e professores de acordo com seus dias e horários disponíveis;
- >Atraves de uma API, manda mensagem via WhatsApp para o professor escolhido;
+<h3>A plataforma Msc Proffy oferece:</h3>
+ 
+<h6>Ao usuário o cadastro de aulas de instrumentos que ele sabe e quer ensinar;</h6>
+<h6>A encontrar aulas e professores de acordo com seus dias e horários disponíveis;</h6>
+<h6>Envio de mensagem via WhatsApp para o professor escolhido, através de uma API;</h6>
  
  # Tecnologias utilizadas
 * JavaScript
