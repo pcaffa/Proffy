@@ -1,14 +1,11 @@
 const subjects = [
-    "Artes",
-    "Biologia",
-    "Ciências",
-    "Educação física",
-    "Física",
-    "Geografia",
-    "História",
-    "Matemática",
-    "Português",
-    "Química",
+    "Bateria",
+    "Contra-Baixo",
+    "Guitarra",
+    "Piano",
+    "Teclado",
+    "Violão",
+    "Violino",
 ]
 
 const weekdays = [
